@@ -1,0 +1,8 @@
+# Repo speficic 
+admin
+
+# Potential garbage
+.ipynb_checkpoints
+.ideas
+.vs_code
+.DS_Store
