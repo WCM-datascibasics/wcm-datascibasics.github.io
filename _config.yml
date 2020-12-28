@@ -1,9 +1,9 @@
 plugins:
- - jekyll-relative-links
+  - jekyll-relative-links
 relative_links:
- enabled: true
- collections: true
+  enabled: true
+  collections: true
 include:
- - index.md
- - /assignments/chapter1.md
+  - index.md
+  - /assignments/chapter1.md
 theme: jekyll-theme-minimal
