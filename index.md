@@ -9,4 +9,4 @@ Additionally, the NIH has begun requiring data management and sharing plans in a
  - [Syllabus](https://wcm-datascibasics.github.io/syllabus.html)
  - Week 1: 
 	- Lecture notes: [What is the Shell?](https://axiezai.github.io/wcm_datasci_basics_01shell/)
-	- Assignment: [chapter1.md](https://wcm_datascibasics.github.io/assignments/chapter1.md)
+	- Assignment: [chapter1.md](https://wcm-datascibasics.github.io/assignments/chapter1.md)
