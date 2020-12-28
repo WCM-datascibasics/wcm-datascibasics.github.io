@@ -1,7 +1,7 @@
 ## Chapter 1 Assignment
 
 ### Markdown
-This is a markdown document (`.md`), a simple and easy-to-use markup language you can use to format most documents. You will be guided on how to use markdown while answering the prompts in this assignment, and you will find markdown especially useful for documenting your work in the future assignments (especially in Python or R). For now, use the `VSCode` editor (see course SetUp guide) to modify and complete the assignment, `VSCode` supporttst markdown files out of the box, and you can [preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) your markdown code with the rendered text side by side.
+This is a markdown document (`.md`), a simple and easy-to-use markup language you can use to format most documents. You will be guided on how to use markdown while answering the prompts in this assignment, and you will find markdown especially useful for documenting your work in the future assignments (especially in Python or R). For now, use the `VSCode` editor (see course SetUp guide) to modify and complete the assignment, `VSCode` supports markdown files out of the box, and you can [preview](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) your markdown code with the rendered text side by side.
 
 You will modify this file with your answers and submit your assignment in an email to `xix2007@med.cornell.edu`. The file should be saved as `{first}-{last}-chapter{#}.md`, and your email should be titled `datascibasics assignment {#}`.
 
