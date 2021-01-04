@@ -7,6 +7,8 @@ Additionally, the NIH has begun requiring data management and sharing plans in a
 
 ## Course material:
  - [Syllabus](https://wcm-datascibasics.github.io/syllabus.html)
+ - Week 0:
+	- [Dr. Dave Kennedy's Reproducibility Slides](https://docs.google.com/presentation/d/1GFlYtxlta0GoTW6yTlTKjn00hF-6U_VjCW5mkSmySto/edit?usp=sharing)
  - Week 1: 
 	- Lecture notes: [What is the Shell?](https://axiezai.github.io/wcm_datasci_basics_01shell/)
 	- Assignment: [chapter1.md](https://wcm-datascibasics.github.io/assignments/chapter1.html)
