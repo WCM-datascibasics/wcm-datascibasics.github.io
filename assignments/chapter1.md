@@ -6,7 +6,7 @@ This is a markdown document (`.md`), a simple and easy-to-use markup language yo
 You will modify this file with your answers and submit your assignment in an email to `xix2007@med.cornell.edu`. The file should be saved as `{first}-{last}-assignment{#}.md`, and your email should be titled `datascibasics assignment {#}`.
 
 ### Assignment:
-Follow chapter 1's [exercise module](https://axiezai.github.io/wcm_datasci_basics_01shell/04-assignment/) steps and answer the following questions:
+Follow chapter 1's [exercise module](https://axiezai.github.io/wcm_datasci_basics_01shell/05-assignment/) steps and answer the following questions:
 
 #### Q1:
 Explain in your own words, what the `datascibasics` script file you've created does when executed. Enter your answer in the markdown quoted block here:
