@@ -15,3 +15,6 @@ Additionally, the NIH has begun requiring data management and sharing plans in a
  - Week 2:
 	- Lecture notes: [Shell tools and environments](https://axiezai.github.io/wcm_datasci_basics_02environment)
 	- Assignment: [chapter2.md](https://wcm-datascibasics.github.io/assignments/chapter2.html)
+ - Week 3:
+	- Lecture notes: [Version Control](https://github.com/axiezai/wcm_datasci_basics_03git)
+	- Assignment: [GitHub Repo](https://github.com/WCM-datascibasics/version_control_assignment)
