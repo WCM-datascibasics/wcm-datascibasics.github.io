@@ -1,4 +1,4 @@
-## Chapter 2 Assignment
+# Chapter 2 Assignment
 
 The aim of this week's exercises is to get your shell environments customized and have you practice a little bit of scripting and debugging.
 
@@ -6,6 +6,7 @@ You will modify this file with your answers and submit your assignment in an ema
 
 Follow chapter 2's [exercise module](https://axiezai.github.io/wcm_datasci_basics_02environment/04-assignment/) steps and answer the following questions:
 
+## Part 1: Dotfiles
 #### Q1:
 While creating aliases for your most used commands, you used the `awk` program and one of its built-in functions `substr`. Try running the `history | awk '{$1="";print substr($0,2)}' | sort | uniq -c | sort -n | tail -n 10` command step by step (add on the pipes `|` one by one), and explain in your own words, how did your command history change with each piped (`|`) step?
 
@@ -27,6 +28,7 @@ Now instead of tree, follow Part 2 step 1, print the `ls` command you used and i
 # Your command and output here
 ```
 
+## Part 2: Shell Scripting
 #### Q4:
 Write your <em> working</em> `marco` and `polo` bash functions here:
 
@@ -35,7 +37,7 @@ Write your <em> working</em> `marco` and `polo` bash functions here:
 ```
 
 #### Q5:
-Report the following:
+Report the following from the debugging script from Part 2 Question 3:
 
 ```bash
 # Your debugging script:
@@ -45,4 +47,26 @@ Report the following:
 # The output error stream:
 
 # (BONUS) How many runs did it take for the script to fail?
+```
+
+## Part 3: Job Control
+#### Q6:
+Without using the pid of your `sleep 10000` job, how did you kill your job?
+
+```bash
+# Your command here
+```
+
+#### Q7:
+How did you use the `wait` command to wait until the `sleep` process finished before executing `ls`? 
+
+```bash
+# Your command here
+```
+
+#### Q8:
+Write your <em>working</em> `pidwait` function here:
+
+```bash
+# Your pidwait function here
 ```
