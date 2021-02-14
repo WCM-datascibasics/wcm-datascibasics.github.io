@@ -18,3 +18,7 @@ Additionally, the NIH has begun requiring data management and sharing plans in a
  - Week 3:
 	- Lecture notes: [Version Control](https://axiezai.github.io/wcm_datasci_basics_03git/)
 	- Assignment: [GitHub Repo](https://github.com/WCM-datascibasics/version_control_assignment)
+ - Week 4:
+	- Lecture notes: Python with Conda and Jupyter
+ - Week 5:
+	- Lecture notes: Microscopy slices and python unit tests
