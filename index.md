@@ -21,6 +21,6 @@ Additionally, the NIH has begun requiring data management and sharing plans in a
  - Week 4:
 	- Lecture notes: [Python with Conda and Jupyter](https://github.com/axiezai/wcm_datasci_basics_04python)
  - Week 5:
-	- Time and sampling
+	- Lecture notes: [Time and sampling](https://github.com/axiezai/wcm_datasci_basics_05time)
  - Week 6:
 	- Lecture notes: Microscopy slices and python unit tests
