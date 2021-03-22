@@ -24,3 +24,9 @@ Additionally, the NIH has begun requiring data management and sharing plans in a
 	- Lecture notes: [Time and sampling](https://github.com/axiezai/wcm_datasci_basics_05time)
  - Week 6:
 	- Lecture notes: [Microscopy slices and python unit tests](https://github.com/axiezai/wcm_datasci_basics_06images)
+ - Week 7:
+	- Review
+ - Week 8:
+	- Lecture notes: [Datalad, Containers, and Beyond](https://github.com/axiezai/wcm_datasci_basics_08beyond)
+ - Week 9:
+	- Lecture notes: Introduction to Calcium Imaging & BMTK
